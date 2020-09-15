@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[OrangeHRM page launched]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfull]]>
+    </line>
+    <line>
+      <![CDATA[MyInfo option displayed]]>
+    </line>
+    <line>
+      <![CDATA[MyInfo option clicked]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24293" started-at="2020-09-15T19:55:04 IST" finished-at="2020-09-15T19:55:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24293" started-at="2020-09-15T19:55:04 IST" finished-at="2020-09-15T19:55:28 IST">
+      <class name="seleniumProjectSession10.Act9">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:seleniumProjectSession10.Act9@79be0360]" name="beforeMethod" is-config="true" duration-ms="7631" started-at="2020-09-15T19:55:04 IST" finished-at="2020-09-15T19:55:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Login()[pri:1, instance:seleniumProjectSession10.Act9@79be0360]" name="Login" duration-ms="8883" started-at="2020-09-15T19:55:11 IST" finished-at="2020-09-15T19:55:20 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[OrangeHRM page launched]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="addMyInfo()[pri:2, instance:seleniumProjectSession10.Act9@79be0360]" name="addMyInfo" duration-ms="6929" started-at="2020-09-15T19:55:20 IST" finished-at="2020-09-15T19:55:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[MyInfo option displayed]]>
+            </line>
+            <line>
+              <![CDATA[MyInfo option clicked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addMyInfo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:seleniumProjectSession10.Act9@79be0360]" name="afterMethod" is-config="true" duration-ms="784" started-at="2020-09-15T19:55:27 IST" finished-at="2020-09-15T19:55:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- seleniumProjectSession10.Act9 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

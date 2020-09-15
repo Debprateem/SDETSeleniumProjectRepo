@@ -1,0 +1,56 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="softwaretestingmaterial">
+    <!-- <test name="testngTest1">
+        <classes>
+            <class name="seleniumProjectSession10.Act1" />
+        </classes>
+    </test> -->
+    
+    <!--  <test name="testngTest2">
+        <classes>
+            <class name="seleniumProjectSession10.Act2" />
+        </classes>
+    </test>  -->
+    
+     <!-- <test name="testngTest3">
+        <classes>
+            <class name="seleniumProjectSession10.Act3" />
+        </classes>
+    </test> -->
+    
+     <!-- <test name="testngTest4">
+        <classes>
+            <class name="seleniumProjectSession10.Act4" />
+        </classes>
+    </test> -->
+    
+    <!-- <test name="testngTest5">
+        <classes>
+            <class name="seleniumProjectSession10.Act5" />
+        </classes>
+    </test> -->
+    
+    <!-- <test name="testngTest6">
+        <classes>
+            <class name="seleniumProjectSession10.Act6" />
+        </classes>
+    </test> -->
+   <!--  <test name="testngTest7">
+        <classes>
+            <class name="seleniumProjectSession10.Act7" />
+        </classes>
+    </test> -->
+    
+    <!--  <test name="testngTest8">
+        <classes>
+            <class name="seleniumProjectSession10.Act8" />
+        </classes>
+    </test> -->
+    
+     <test name="testngTest9">
+        <classes>
+            <class name="seleniumProjectSession10.Act9" />
+        </classes>
+    </test>
+    
+</suite>
